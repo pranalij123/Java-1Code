@@ -6,6 +6,6 @@ class PrintBooleanValue {
 }
 
 /* Output:
- Compile time:
- Run time:
+ Compile time:Success
+ Run time:true
  */
