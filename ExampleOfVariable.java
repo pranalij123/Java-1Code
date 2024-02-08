@@ -1,13 +1,13 @@
 class ExampleOfVariable {
-      priceOfBiryani=120;
-      nameOfFood="Biryani";
+    short  priceOfBiryani=120;
+    String nameOfFood="Biryani";
     public static void main(String []eov){
-        priceOfData=80;
+     short priceOfData=80;
     }
 }
 
 
 /* output:
-   compile time:Error
+   compile time:success
    Runtime:
 */
