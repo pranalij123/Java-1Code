@@ -8,6 +8,6 @@ class PrintFloatValue {
 
 
 /*output:
- compile time:
- Run time: 
+ compile time:Success
+ Run time: 12.1
  */
