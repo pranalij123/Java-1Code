@@ -8,5 +8,6 @@ class PrintIntValue{
 
 
 /*output:
- 
+ compile time: success
+ Run time: 10
  */
