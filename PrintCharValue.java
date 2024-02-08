@@ -9,6 +9,6 @@ class PrintCharValue {
 
 
 /*output:
- compile time:
- Run time: 
+ compile time:Success
+ Run time: A
  */
