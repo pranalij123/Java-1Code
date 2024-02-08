@@ -10,6 +10,6 @@ System.out.println(a);
 
 
 /*Output:
-compile time:
-Run time:
+compile time:Success
+Run time:Hello World
 */
