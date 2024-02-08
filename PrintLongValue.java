@@ -8,6 +8,6 @@ class PrintLongValue {
 
 
 /*output:
- compile time: 
- Run time: 
+ compile time:Success 
+ Run time: 1234567890
  */
