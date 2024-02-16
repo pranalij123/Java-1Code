@@ -12,7 +12,7 @@ double percentage=((cyberSecurity+artificialInteligence+webTechnology+dataScienc
 
 int marks=(int) percentage;//Type casting (Narrowing)
 System.out.println("Marks "+ marks);
-//857=75 && 87<90
+//87=75 && 87<90
 char result=((marks>=90 && marks<=100)? 'A':((marks>=75 && marks<90)? 'B':((marks>=55 && marks<75)? 'C':((marks>=35 && marks<55)? 'E':'F'))));
 System.out.println("Grade is "+ result);
 
