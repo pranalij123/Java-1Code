@@ -13,4 +13,11 @@ String m=(b%2==0)?("even"):("odd");
 System.out.println("value is "+m);
 }
 }
+/Output:
+compile time :success
+run time:enter the int value
+57
+The value is 57
+value is odd
+*/
 
