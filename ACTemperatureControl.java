@@ -22,3 +22,10 @@ class PrintLongValue {
         }
     }
 }
+/* OUTPUT:
+compile time: Success
+Run time: Enter current temperature (in degrees Celsius):
+44.44
+Temperature is above optimal range: 44.44 degrees Celsius. Decreasing cooling level.
+
+*/
