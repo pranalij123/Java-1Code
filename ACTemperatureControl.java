@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PrintLongValue {
+class ACTemperature {
     public static void main(String[] args) {
         // Initialize scanner for user input
         Scanner scanner = new Scanner(System.in);
